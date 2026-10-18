@@ -1,0 +1,5 @@
+delivery,orders,pct_of_orders,avg_review,pct_bad_reviews
+1. On time or early,89182,93.3,4.29,9.2
+2. 1 to 3 days late,1851,1.9,3.29,32.2
+3. 4 to 7 days late,1748,1.8,2.11,67.6
+4. More than 7 days late,2779,2.9,1.7,79.2
